@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @qq1137058044
+- 👀 I’m interested in ...
+-🌱我正在学习...
+-💞️我正在寻求合作...
+- 📫 How to reach me ...
+
+<!---
+qq1137058044/qq1137058044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->嗨，我是小萌新
+我正在学习java
+我在寻求合作
+联系方式：qq1137058044
